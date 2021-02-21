@@ -6,7 +6,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		try {
-			FrequencyCounter.freq(750, 250, "penis");
+			FrequencyCounter.freq(750, 250, "apple");
 		} catch (InterruptedException | ExecutionException | IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
